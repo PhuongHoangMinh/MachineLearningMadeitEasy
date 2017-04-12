@@ -49,23 +49,13 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Opening the ipython notebook files to run the test on IRIS data set
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+To verify the accuracy rate for each algorithms and to evaluate hyperparameters, 5-fold cross validation method is used 
 
 ### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
