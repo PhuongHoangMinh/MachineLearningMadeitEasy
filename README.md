@@ -20,7 +20,7 @@ The accuracy rates are shown in table below (see HW3 for Neural Networks):
 | 3-class discriminant function classifier                                      | 28/150                     | 81.33%      |
 | 3-class Bayesian classifier using softmax function (generative probabilistic) | 3/150                      | 98%         |
 
-Furthermore, in this repository, several basic probability distribution, sampling methods (Metropolis Hasting, Hamiltonian MC) as well as numerical methods (finding root equations) are implemented for someone to get the ideas behind ML algorithms. 
+Furthermore, in this repository, several basic probability distributions, sampling methods (Metropolis Hasting, Hamiltonian MC) as well as numerical methods (finding root equations) are implemented for someone to get the ideas behind ML algorithms. 
 Latent Semantic Indexing problem are also illustrated with Singular Value Decomposition (SVD).
 
 ### Prerequisites
