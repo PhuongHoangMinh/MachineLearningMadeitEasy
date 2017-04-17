@@ -6,7 +6,7 @@ Most algorihms are implemented from scratch following Pattern Recognition and Ma
 ## Getting Started
 
 Most Machine Learning algorithms in this repository are implemented to attack IRIS classification problem. 
-The approaches range from Parametric to Non Parametric methods in density estimation to Bayesian approaches in Generative Probabilistic Models to Neural Networks.
+The approaches range from Parametric to Non Parametric methods, from density estimation to Bayesian approaches, from Generative Probabilistic Models to Neural Networks.
 The accuracy rates are shown in table below (see HW3 for Neural Networks):
 
 |                                                                               | No of wrong classification | Performance |
