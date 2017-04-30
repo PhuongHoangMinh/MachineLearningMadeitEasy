@@ -7,9 +7,9 @@ In this demo, we gonna show how Hamiltonian dynamics can be used as MC proposal 
 H(x,p) = U(x) + K(p)
 
 U(x): potential energy
-K(p): kinematic energy
+K(p): kinetic energy
 
-Hamiltonian dynamics describes how kinematic energy converges to potential energy (and vice versa)
+Hamiltonian dynamics describes how kinetic energy converges to potential energy (and vice versa)
 
  This description is implemented quantitatively via a set of differential equations known as the Hamiltonian equations:
 
